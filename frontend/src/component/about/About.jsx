@@ -39,14 +39,14 @@ const About = () => {
                           lineHeight: "1.2",
                         }}
                       >
-                        Xin chào đến với Kiana Shop!!!
+                        Xin chào đến với Meou shop!!!
                       </span>
                       <p>
-                        Kiana shop là một thương hiệu thời trang Việt Nam dành
+                        Meou shop là một thương hiệu thời trang Việt Nam dành
                         cho giới trẻ.
                         <br />
                         ĐA DẠNG CÁC GU THỜI TRANG chính là phong cách hiện tại
-                        của Kiana Shop.
+                        của Meou shop.
                       </p>
                       <p>
                         Đặc biệt, GU TỐI GIẢN - ĐƠN GIẢN - THỂ THAO dành cho tất
@@ -56,7 +56,7 @@ const About = () => {
                         trang phục cơ bản và thiết yếu nhất dành cho mình.
                       </p>
                       <p>
-                        <h1>1"</h1> <h2>Kiana shop </h2>mang đến cho khách hàng
+                        <h1>1"</h1> <h2>Meou shop </h2>mang đến cho khách hàng
                         những sản phẩm CHẤT LƯỢNG TỐT với GIÁ THÀNH RẺ nhất so
                         với chất lượng mang lại.
                         <br />
@@ -89,7 +89,7 @@ const About = () => {
                         du lịch, đến trường hoặc đi làm..v.v..
                       </p>
                       <p>
-                        <h1>3"</h1> <h2>Kiana shop </h2>Luôn duy trì chế độ bảo hành 365 ngày đối với mọi sản phẩm
+                        <h1>3"</h1> <h2>Meou shop </h2>Luôn duy trì chế độ bảo hành 365 ngày đối với mọi sản phẩm
                       </p>
                       
                     </div>

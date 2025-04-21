@@ -143,7 +143,7 @@ const Header = () => {
                 objectFit: "contain",
                 cursor: "pointer",
               }}
-            /><div className="textLogo"><h1>KIANA</h1></div>
+            /><div className="textLogo"><h1>Meou shop</h1></div>
             
           </Link>
         </div>
@@ -175,7 +175,7 @@ const Header = () => {
                 color: "#fff",
               }}
             >
-              Chào mừng đến với Kiana shop...Miễn phí phí ship đối với đơn hàng
+              Chào mừng đến với Meou shop...Miễn phí phí ship đối với đơn hàng
               trên 200.000đ!!!! 
             </span>
           
@@ -216,7 +216,7 @@ const Header = () => {
             >
               Email:
             </strong>{" "}
-            army24062000@gmail.com
+            thienmvk@gmail.com
           </span>
         </div>
       </div>

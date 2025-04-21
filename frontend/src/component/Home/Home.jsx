@@ -39,7 +39,7 @@ const Home = () => {
       ) : (
         <>
           <ModalContact />
-          <MetaData title="Kiana shop" />
+          <MetaData title="Meou shop" />
           <Header />
           {/* Carousel */}
           <div
